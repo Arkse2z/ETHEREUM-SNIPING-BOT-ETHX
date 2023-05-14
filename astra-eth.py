@@ -103,7 +103,7 @@ def Bt():
 	def A(path2,file_name,data2):
 		A=d+path2+u+file_name
 		with L(A,v)as B:g.dump(data2,B,indent=2)
-	B5[AD]='https://main-light.eth.linkpool.io/';A(h,Br,B5)
+	B5[AD]='';A(h,Br,B5)
 def Bu():
 	def A(path2,file_name,data2):
 		A=d+path2+u+file_name
